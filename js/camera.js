@@ -1,0 +1,1 @@
+const iniciarCameraBotao = document.querySelector("[data-video-botao]")
